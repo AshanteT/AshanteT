@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ashante
 - 👀 I’m interested in transitioning from the education field into the cybersecurity field
 - 🌱 I've recently completed a hands-on SOC traning program and will be taking the security + exam soon!
-- Follow me on Linked-In href="www.linkedin.com/in/ashante-thicklin"
+- Follow me on Linked-In www.linkedin.com/in/ashante-thicklin
 
 
 
