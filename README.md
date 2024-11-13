@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ashante
-- 👀 I’m interested in transitioning from the education field into the cybersecurity field
+- 👀 I’m interested in malware analysis, penetration testing, and ethical hacking!
 - 🌱 I've recently completed a hands-on SOC traning program and will be taking the security + exam soon!
 - Follow me on Linked-In www.linkedin.com/in/ashante-thicklin
 
