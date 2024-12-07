@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ashante
-- 👀 I’m interested in malware analysis, penetration testing, and ethical hacking!
-- 🌱 I've recently completed a hands-on SOC traning program and will be taking the security + exam soon!
-- Follow me on Linked-In www.linkedin.com/in/ashante-thicklin
+- Welcome to my GitHub account! As an experienced Security Analyst, I use this space to document and share practical cybersecurity projects that showcase my technical expertise and problem-solving approach. Each project is designed to simulate real-world scenarios and demonstrate proficiency in tools, methodologies, and workflows essential to securing digital environments.
+
 
 
 
