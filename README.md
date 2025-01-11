@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ashante
-- Welcome to my GitHub account! As an experienced Security Analyst, I use this space to document and share practical cybersecurity projects that showcase my technical expertise and problem-solving approach. Each project is designed to simulate real-world scenarios and demonstrate proficiency in tools, methodologies, and workflows essential to securing digital environments.
+- Welcome to my GitHub account! I use this space to document and share practical cybersecurity projects that showcase my technical expertise and problem-solving approach. Each project is designed to simulate real-world scenarios and demonstrate proficiency in tools, methodologies, and workflows essential to securing digital environments.
 
 
 
